@@ -1,9 +1,6 @@
-### Hi there 👋
 
 <!--
-**wonderbarthsnr/wonderbarthsnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**wonderbarthsnr/wonderbarthsnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
 
 I am wonderbarthsnr
 
